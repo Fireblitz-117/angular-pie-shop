@@ -1,4 +1,6 @@
 # Angular Pie Shop
+To open Aaron's Pie shop on a website hosted via vercel. Click on the following link:
+https://angular-pie-shop-liart.vercel.app/
 
 ## NOTE ON STACKBLITZ:
 
